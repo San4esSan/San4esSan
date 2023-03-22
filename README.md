@@ -65,7 +65,7 @@
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=san4essan&show_icons=true&theme=react&border_color=61dafb&hide_border=true&locale=en&layout=compact" alt="san4essan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=san4essan&show_icons=true&theme=react&border_color=61dafb&hide_border=true&locale=en" alt="san4essan" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=san4essan&show_icons=true&theme=react&border_color=61dafb&hide_border=true&locale=en" alt="san4essan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=san4essan&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="san4essan" /></p>
 
