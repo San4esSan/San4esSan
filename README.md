@@ -54,7 +54,7 @@
 
 </p>
 
-<p style="color: #61dafb">his list will be uniformly updated as I never stop learning</p>
+<p style="color: #61dafb">This list will be uniformly updated as I never stop learning</p>
 
 ---
 
